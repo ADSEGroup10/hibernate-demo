@@ -1,0 +1,6 @@
+com\hibernate\model\User.class
+com\hibernate\controller\LoginController.class
+com\hibernate\util\HibernateUtil.class
+com\hibernate\test\SeedDemoUser.class
+com\hibernate\test\HibernateConnectionTest.class
+com\hibernate\dao\UserDao.class
